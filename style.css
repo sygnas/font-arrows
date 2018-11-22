@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'arrows';
-  src:  url('fonts/arrows.eot?sv72tp');
-  src:  url('fonts/arrows.eot?sv72tp#iefix') format('embedded-opentype'),
-    url('fonts/arrows.ttf?sv72tp') format('truetype'),
-    url('fonts/arrows.woff?sv72tp') format('woff'),
-    url('fonts/arrows.svg?sv72tp#arrows') format('svg');
+  src:  url('fonts/arrows.eot?6g6gb6');
+  src:  url('fonts/arrows.eot?6g6gb6#iefix') format('embedded-opentype'),
+    url('fonts/arrows.ttf?6g6gb6') format('truetype'),
+    url('fonts/arrows.woff?6g6gb6') format('woff'),
+    url('fonts/arrows.svg?6g6gb6#arrows') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,78 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.i-arrows-long-arrow-2-r:before {
+  content: "\e9b4";
+}
+.i-arrows-long-arrow-3-r:before {
+  content: "\e9b5";
+}
+.i-arrows-long-arrow-4-r:before {
+  content: "\e9b6";
+}
+.i-arrows-long-arrow-5-r:before {
+  content: "\e9b7";
+}
+.i-arrows-long-arrow-6-r:before {
+  content: "\e9b8";
+}
+.i-arrows-long-arrow-1-l:before {
+  content: "\e9b9";
+}
+.i-arrows-long-arrow-2-l:before {
+  content: "\e9ba";
+}
+.i-arrows-long-arrow-3-l:before {
+  content: "\e9bb";
+}
+.i-arrows-long-arrow-4-l:before {
+  content: "\e9bc";
+}
+.i-arrows-long-arrow-5-l:before {
+  content: "\e9bd";
+}
+.i-arrows-long-arrow-6-l:before {
+  content: "\e9be";
+}
+.i-arrows-long-arrow-1-u:before {
+  content: "\e9bf";
+}
+.i-arrows-long-arrow-2-u:before {
+  content: "\e9c0";
+}
+.i-arrows-long-arrow-3-u:before {
+  content: "\e9c1";
+}
+.i-arrows-long-arrow-4-u:before {
+  content: "\e9c2";
+}
+.i-arrows-long-arrow-5-u:before {
+  content: "\e9c3";
+}
+.i-arrows-long-arrow-6-u:before {
+  content: "\e9c4";
+}
+.i-arrows-long-arrow-1-d:before {
+  content: "\e9c5";
+}
+.i-arrows-long-arrow-2-d:before {
+  content: "\e9c6";
+}
+.i-arrows-long-arrow-3-d:before {
+  content: "\e9c7";
+}
+.i-arrows-long-arrow-4-d:before {
+  content: "\e9c8";
+}
+.i-arrows-long-arrow-5-d:before {
+  content: "\e9c9";
+}
+.i-arrows-long-arrow-6-d:before {
+  content: "\e9ca";
+}
+.i-arrows-long-arrow-1-r:before {
+  content: "\e9cb";
+}
 .i-arrows-times-r-1:before {
   content: "\e9a0";
 }
