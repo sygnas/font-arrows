@@ -219,4 +219,20 @@
 <glyph unicode="&#xe9d1;" glyph-name="half-arrow-3-r" horiz-adv-x="2048" d="M1939.84 288h-1779.84v96h1548.16l-206.080 206.080 67.84 67.84 369.92-369.92z" />
 <glyph unicode="&#xe9d2;" glyph-name="half-arrow-4-l" horiz-adv-x="2048" d="M1888 256h-1761.28l424.64 424.64 113.28-113.28-151.36-151.36h1374.72v-160z" />
 <glyph unicode="&#xe9d3;" glyph-name="half-arrow-4-r" horiz-adv-x="2048" d="M1921.28 256h-1761.28v160h1374.72l-151.36 151.36 113.28 113.28 424.64-424.64z" />
+<glyph unicode="&#xe9d4;" glyph-name="courner-1-tr" d="M160 896v-64h672l-768-768v-64h64l768 768v-672h64v800h-800z" />
+<glyph unicode="&#xe9d5;" glyph-name="courner-1-br" d="M960 800h-64v-672l-768 768h-64v-64l768-768h-672v-64h800v800z" />
+<glyph unicode="&#xe9d6;" glyph-name="courner-1-bl" d="M864 0v64h-672l768 768v64h-64l-768-768v672h-64v-800h800z" />
+<glyph unicode="&#xe9d7;" glyph-name="courner-1-tl" d="M64 96h64v672l768-768h64v64l-768 768h672v64h-800v-800z" />
+<glyph unicode="&#xe9d8;" glyph-name="courner-2-tr" d="M160 896v-96h608l-704-704v-96h96l704 704v-608h96v800h-800z" />
+<glyph unicode="&#xe9d9;" glyph-name="courner-2-br" d="M960 800h-96v-608l-704 704h-96v-96l704-704h-608v-96h800v800z" />
+<glyph unicode="&#xe9da;" glyph-name="courner-2-bl" d="M864 0v96h-608l704 704v96h-96l-704-704v608h-96v-800h800z" />
+<glyph unicode="&#xe9db;" glyph-name="courner-2-tl" d="M64 96h96v608l704-704h96v96l-704 704h608v96h-800v-800z" />
+<glyph unicode="&#xe9dc;" glyph-name="courner-3-tr" d="M160 896v-128h544l-640-640v-128h128l640 640v-544h128v800h-800z" />
+<glyph unicode="&#xe9dd;" glyph-name="courner-3-br" d="M960 800h-128v-544l-640 640h-128v-128l640-640h-544v-128h800v800z" />
+<glyph unicode="&#xe9de;" glyph-name="courner-3-bl" d="M864 0v128h-544l640 640v128h-128l-640-640v544h-128v-800h800z" />
+<glyph unicode="&#xe9df;" glyph-name="courner-3-tl" d="M64 96h128v544l640-640h128v128l-640 640h544v128h-800v-800z" />
+<glyph unicode="&#xe9e0;" glyph-name="courner-4-tr" d="M153.6 896v-179.2h448l-537.6-537.6v-179.2h179.2l537.6 537.6v-448h179.2v806.4h-806.4z" />
+<glyph unicode="&#xe9e1;" glyph-name="courner-4-br" d="M960 806.4h-179.2v-448l-537.6 537.6h-179.2v-179.2l537.6-537.6h-448v-179.2h806.4v806.4z" />
+<glyph unicode="&#xe9e2;" glyph-name="courner-4-bl" d="M870.4 0v179.2h-448l537.6 537.6v179.2h-179.2l-537.6-537.6v448h-179.2v-806.4h806.4z" />
+<glyph unicode="&#xe9e3;" glyph-name="courner-4-tl" d="M64 89.6h179.2v448l537.6-537.6h179.2v179.2l-537.6 537.6h448v179.2h-806.4v-806.4z" />
 </font></defs></svg>

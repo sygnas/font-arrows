@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'arrows';
-  src:  url('fonts/arrows.eot?v9sbvu');
-  src:  url('fonts/arrows.eot?v9sbvu#iefix') format('embedded-opentype'),
-    url('fonts/arrows.ttf?v9sbvu') format('truetype'),
-    url('fonts/arrows.woff?v9sbvu') format('woff'),
-    url('fonts/arrows.svg?v9sbvu#arrows') format('svg');
+  src:  url('fonts/arrows.eot?ybtkk8');
+  src:  url('fonts/arrows.eot?ybtkk8#iefix') format('embedded-opentype'),
+    url('fonts/arrows.ttf?ybtkk8') format('truetype'),
+    url('fonts/arrows.woff?ybtkk8') format('woff'),
+    url('fonts/arrows.svg?ybtkk8#arrows') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -13,7 +13,7 @@
 [class^="i-arrows-"], [class*=" i-arrows-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'arrows' !important;
-  speak: none;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -25,6 +25,54 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.i-arrows-courner-1-tr:before {
+  content: "\e9d4";
+}
+.i-arrows-courner-1-br:before {
+  content: "\e9d5";
+}
+.i-arrows-courner-1-bl:before {
+  content: "\e9d6";
+}
+.i-arrows-courner-1-tl:before {
+  content: "\e9d7";
+}
+.i-arrows-courner-2-tr:before {
+  content: "\e9d8";
+}
+.i-arrows-courner-2-br:before {
+  content: "\e9d9";
+}
+.i-arrows-courner-2-bl:before {
+  content: "\e9da";
+}
+.i-arrows-courner-2-tl:before {
+  content: "\e9db";
+}
+.i-arrows-courner-3-tr:before {
+  content: "\e9dc";
+}
+.i-arrows-courner-3-br:before {
+  content: "\e9dd";
+}
+.i-arrows-courner-3-bl:before {
+  content: "\e9de";
+}
+.i-arrows-courner-3-tl:before {
+  content: "\e9df";
+}
+.i-arrows-courner-4-tr:before {
+  content: "\e9e0";
+}
+.i-arrows-courner-4-br:before {
+  content: "\e9e1";
+}
+.i-arrows-courner-4-bl:before {
+  content: "\e9e2";
+}
+.i-arrows-courner-4-tl:before {
+  content: "\e9e3";
+}
 .i-arrows-half-arrow-1-l:before {
   content: "\e9cc";
 }
