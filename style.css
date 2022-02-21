@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'arrows';
-  src:  url('fonts/arrows.eot?ybtkk8');
-  src:  url('fonts/arrows.eot?ybtkk8#iefix') format('embedded-opentype'),
-    url('fonts/arrows.ttf?ybtkk8') format('truetype'),
-    url('fonts/arrows.woff?ybtkk8') format('woff'),
-    url('fonts/arrows.svg?ybtkk8#arrows') format('svg');
+  src:  url('fonts/arrows.eot?c8irgn');
+  src:  url('fonts/arrows.eot?c8irgn#iefix') format('embedded-opentype'),
+    url('fonts/arrows.ttf?c8irgn') format('truetype'),
+    url('fonts/arrows.woff?c8irgn') format('woff'),
+    url('fonts/arrows.svg?c8irgn#arrows') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,36 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.i-arrows-half-arrow-03-l:before {
+  content: "\e9e4";
+}
+.i-arrows-half-arrow-03-r:before {
+  content: "\e9f2";
+}
+.i-arrows-half-arrow-1-l:before {
+  content: "\e9cc";
+}
+.i-arrows-half-arrow-1-r:before {
+  content: "\e9cd";
+}
+.i-arrows-half-arrow-2-l:before {
+  content: "\e9ce";
+}
+.i-arrows-half-arrow-2-r:before {
+  content: "\e9cf";
+}
+.i-arrows-half-arrow-3-l:before {
+  content: "\e9d0";
+}
+.i-arrows-half-arrow-3-r:before {
+  content: "\e9d1";
+}
+.i-arrows-half-arrow-4-l:before {
+  content: "\e9d2";
+}
+.i-arrows-half-arrow-4-r:before {
+  content: "\e9d3";
+}
 .i-arrows-courner-1-tr:before {
   content: "\e9d4";
 }
@@ -73,29 +103,17 @@
 .i-arrows-courner-4-tl:before {
   content: "\e9e3";
 }
-.i-arrows-half-arrow-1-l:before {
-  content: "\e9cc";
+.i-arrows-long-arrow-03-l:before {
+  content: "\e9f0";
 }
-.i-arrows-half-arrow-1-r:before {
-  content: "\e9cd";
+.i-arrows-long-arrow-03-r:before {
+  content: "\e9f1";
 }
-.i-arrows-half-arrow-2-l:before {
-  content: "\e9ce";
+.i-arrows-long-arrow-03-u:before {
+  content: "\e9ef";
 }
-.i-arrows-half-arrow-2-r:before {
-  content: "\e9cf";
-}
-.i-arrows-half-arrow-3-l:before {
-  content: "\e9d0";
-}
-.i-arrows-half-arrow-3-r:before {
-  content: "\e9d1";
-}
-.i-arrows-half-arrow-4-l:before {
-  content: "\e9d2";
-}
-.i-arrows-half-arrow-4-r:before {
-  content: "\e9d3";
+.i-arrows-long-arrow-03-d:before {
+  content: "\e9ee";
 }
 .i-arrows-long-arrow-1-l:before {
   content: "\e9b9";
@@ -199,6 +217,9 @@
 .i-arrows-times-r-10:before {
   content: "\e9a9";
 }
+.i-arrows-times-03:before {
+  content: "\e9ed";
+}
 .i-arrows-times-1:before {
   content: "\e9aa";
 }
@@ -228,6 +249,18 @@
 }
 .i-arrows-times-10:before {
   content: "\e9b3";
+}
+.i-arrows-arrow-03-l:before {
+  content: "\e9eb";
+}
+.i-arrows-arrow-03-r:before {
+  content: "\e9ec";
+}
+.i-arrows-arrow-03-u:before {
+  content: "\e9ea";
+}
+.i-arrows-arrow-03-b:before {
+  content: "\e9e9";
 }
 .i-arrows-arrow-1-l:before {
   content: "\e929";
@@ -588,6 +621,18 @@
 }
 .i-arrows-angle-r-10-d:before {
   content: "\e99c";
+}
+.i-arrows-angle-03-l:before {
+  content: "\e9e7";
+}
+.i-arrows-angle-03-r:before {
+  content: "\e9e8";
+}
+.i-arrows-angle-03-u:before {
+  content: "\e9e6";
+}
+.i-arrows-angle-03-d:before {
+  content: "\e9e5";
 }
 .i-arrows-angle-1-l:before {
   content: "\e901";
