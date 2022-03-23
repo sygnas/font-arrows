@@ -250,4 +250,10 @@
 <glyph unicode="&#xe9f0;" glyph-name="long-arrow-03-l" d="M364.48 150.4l7.040 6.72-286.080 286.080h906.56v9.6h-906.56l286.080 286.080-7.040 6.72-294.080-294.080-3.2-3.52 297.28-297.6z" />
 <glyph unicode="&#xe9f1;" glyph-name="long-arrow-03-r" d="M659.52 745.6l-7.040-6.72 286.080-286.080h-906.56v-9.6h906.56l-286.080-286.080 7.040-6.72 294.080 294.080 3.2 3.52-297.28 297.6z" />
 <glyph unicode="&#xe9f2;" glyph-name="half-arrow-03-r" horiz-adv-x="2048" d="M1867.52 331.2h-1707.52v9.6h1684.48l-280 279.68 7.040 7.040 296-296.32z" />
+<glyph unicode="&#xe9f3;" glyph-name="half-arrow2-03-l" horiz-adv-x="2048" d="M1888 267.2h-1707.52l8 8.32 480 480 7.040-7.040-472-471.68h1684.48v-9.6z" />
+<glyph unicode="&#xe9f4;" glyph-name="half-arrow2-03-r" horiz-adv-x="2048" d="M1867.52 267.2h-1707.52v9.6h1684.48l-472 471.68 7.040 7.040 488-488.32z" />
+<glyph unicode="&#xe9f5;" glyph-name="half-arrow2-1-l" horiz-adv-x="2048" d="M1888 256h-1734.72l507.52 507.2 22.4-22.4-452.48-452.8h1657.28v-32z" />
+<glyph unicode="&#xe9f6;" glyph-name="half-arrow2-1-r" horiz-adv-x="2048" d="M1894.72 256h-1734.72v32h1657.28l-452.48 452.8 22.4 22.4 507.52-507.2z" />
+<glyph unicode="&#xe9f7;" glyph-name="half-arrow2-2-l" horiz-adv-x="2048" d="M1888 240h-1773.12l534.4 534.72 45.44-45.44-425.6-425.28h1618.88v-64z" />
+<glyph unicode="&#xe9f8;" glyph-name="half-arrow2-2-r" horiz-adv-x="2048" d="M1933.12 240h-1773.12v64h1618.88l-425.6 425.28 45.44 45.44 534.4-534.72z" />
 </font></defs></svg>
