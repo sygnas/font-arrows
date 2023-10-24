@@ -256,4 +256,6 @@
 <glyph unicode="&#xe9f6;" glyph-name="half-arrow2-1-r" horiz-adv-x="2048" d="M1894.72 256h-1734.72v32h1657.28l-452.48 452.8 22.4 22.4 507.52-507.2z" />
 <glyph unicode="&#xe9f7;" glyph-name="half-arrow2-2-l" horiz-adv-x="2048" d="M1888 240h-1773.12l534.4 534.72 45.44-45.44-425.6-425.28h1618.88v-64z" />
 <glyph unicode="&#xe9f8;" glyph-name="half-arrow2-2-r" horiz-adv-x="2048" d="M1933.12 240h-1773.12v64h1618.88l-425.6 425.28 45.44 45.44 534.4-534.72z" />
+<glyph unicode="&#xe9f9;" glyph-name="slim-arrow-3-l" d="M46.080 448l304.32 118.4v-236.8l-304.32 118.4zM978.88 410.56h-671.68v74.56h671.68v-74.56z" />
+<glyph unicode="&#xe9fa;" glyph-name="slim-arrow-3-r" d="M978.88 448l-304.32-118.4v236.8l304.32-118.4zM46.080 485.44h671.68v-74.56h-671.68v74.56z" />
 </font></defs></svg>

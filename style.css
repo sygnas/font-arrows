@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'arrows';
-  src:  url('fonts/arrows.eot?dwy24m');
-  src:  url('fonts/arrows.eot?dwy24m#iefix') format('embedded-opentype'),
-    url('fonts/arrows.ttf?dwy24m') format('truetype'),
-    url('fonts/arrows.woff?dwy24m') format('woff'),
-    url('fonts/arrows.svg?dwy24m#arrows') format('svg');
+  src:  url('fonts/arrows.eot?v6grme');
+  src:  url('fonts/arrows.eot?v6grme#iefix') format('embedded-opentype'),
+    url('fonts/arrows.ttf?v6grme') format('truetype'),
+    url('fonts/arrows.woff?v6grme') format('woff'),
+    url('fonts/arrows.svg?v6grme#arrows') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.i-arrows-slim-arrow-3-l:before {
+  content: "\e9f9";
+}
+.i-arrows-slim-arrow-3-r:before {
+  content: "\e9fa";
+}
 .i-arrows-half-arrow2-03-l:before {
   content: "\e9f3";
 }
