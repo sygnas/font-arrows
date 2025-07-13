@@ -258,4 +258,24 @@
 <glyph unicode="&#xe9f8;" glyph-name="half-arrow2-2-r" horiz-adv-x="2048" d="M1933.12 240h-1773.12v64h1618.88l-425.6 425.28 45.44 45.44 534.4-534.72z" />
 <glyph unicode="&#xe9f9;" glyph-name="slim-arrow-3-l" d="M46.080 448l304.32 118.4v-236.8l-304.32 118.4zM978.88 410.56h-671.68v74.56h671.68v-74.56z" />
 <glyph unicode="&#xe9fa;" glyph-name="slim-arrow-3-r" d="M978.88 448l-304.32-118.4v236.8l304.32-118.4zM46.080 485.44h671.68v-74.56h-671.68v74.56z" />
+<glyph unicode="&#xe9fb;" glyph-name="chevron-1-d" d="M512 62.72l445.44 770.56-445.44-494.080-445.44 494.080 445.44-770.24z" />
+<glyph unicode="&#xe9fc;" glyph-name="chevron-1-l" d="M126.72 448l770.24-445.44-494.080 445.44 494.4 445.44-770.56-445.44z" />
+<glyph unicode="&#xe9fd;" glyph-name="chevron-1-r" d="M897.28 448l-770.56 445.44 494.080-445.44-494.080-445.44 770.24 445.44z" />
+<glyph unicode="&#xe9fe;" glyph-name="chevron-1-u" d="M512 833.28l-445.44-770.56 445.44 494.080 445.44-494.080-445.44 770.56z" />
+<glyph unicode="&#xe9ff;" glyph-name="chevron-2-d" d="M512 62.72l445.44 770.56-445.44-403.52-445.44 403.52 445.44-770.24z" />
+<glyph unicode="&#xea00;" glyph-name="chevron-2-l" d="M126.72 448l770.24-445.44-403.52 445.44 403.84 445.44-770.56-445.44z" />
+<glyph unicode="&#xea01;" glyph-name="chevron-2-r" d="M897.28 448l-770.56 445.44 403.52-445.44-403.52-445.44 770.24 445.44z" />
+<glyph unicode="&#xea02;" glyph-name="chevron-2-u" d="M512 833.28l-445.44-770.56 445.44 403.52 445.44-403.52-445.44 770.56z" />
+<glyph unicode="&#xea03;" glyph-name="chevron-3-d" d="M512 62.72l445.44 770.56-445.44-312.64-445.44 312.64 445.44-770.24z" />
+<glyph unicode="&#xea04;" glyph-name="chevron-3-l" d="M126.72 448l770.24-445.44-312.64 445.44 312.96 445.44-770.56-445.44z" />
+<glyph unicode="&#xea05;" glyph-name="chevron-3-r" d="M897.28 448l-770.56 445.44 312.64-445.44-312.64-445.44 770.24 445.44z" />
+<glyph unicode="&#xea06;" glyph-name="chevron-3-u" d="M512 833.28l-445.44-770.56 445.44 312.64 445.44-312.64-445.44 770.56z" />
+<glyph unicode="&#xea07;" glyph-name="chevron-4-d" d="M512 62.72l445.44 770.56-445.44-222.080-445.44 222.080 445.44-770.24z" />
+<glyph unicode="&#xea08;" glyph-name="chevron-4-l" d="M126.72 448l770.24-445.44-222.080 445.44 222.080 445.44-770.24-445.44z" />
+<glyph unicode="&#xea09;" glyph-name="chevron-4-r" d="M897.28 448l-770.56 445.44 222.080-445.44-222.080-445.44 770.24 445.44z" />
+<glyph unicode="&#xea0a;" glyph-name="chevron-4-u" d="M512 833.28l-445.44-770.56 445.44 222.080 445.44-222.080-445.44 770.56z" />
+<glyph unicode="&#xea0b;" glyph-name="chevron-5-d" d="M512 62.72l445.44 770.56-445.44-131.2-445.44 131.2 445.44-770.24z" />
+<glyph unicode="&#xea0c;" glyph-name="chevron-5-l" d="M126.72 448l770.24-445.44-131.2 445.44 131.2 445.44-770.24-445.44z" />
+<glyph unicode="&#xea0d;" glyph-name="chevron-5-r" d="M897.28 448l-770.56 445.44 131.2-445.44-131.2-445.44 770.24 445.44z" />
+<glyph unicode="&#xea0e;" glyph-name="chevron-5-u" d="M512 833.28l-445.44-770.56 445.44 131.2 445.44-131.2-445.44 770.56z" />
 </font></defs></svg>

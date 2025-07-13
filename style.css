@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'arrows';
-  src:  url('fonts/arrows.eot?v6grme');
-  src:  url('fonts/arrows.eot?v6grme#iefix') format('embedded-opentype'),
-    url('fonts/arrows.ttf?v6grme') format('truetype'),
-    url('fonts/arrows.woff?v6grme') format('woff'),
-    url('fonts/arrows.svg?v6grme#arrows') format('svg');
+  src:  url('fonts/arrows.eot?ygf7i6');
+  src:  url('fonts/arrows.eot?ygf7i6#iefix') format('embedded-opentype'),
+    url('fonts/arrows.ttf?ygf7i6') format('truetype'),
+    url('fonts/arrows.woff?ygf7i6') format('woff'),
+    url('fonts/arrows.svg?ygf7i6#arrows') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,66 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.i-arrows-chevron-1-d:before {
+  content: "\e9fb";
+}
+.i-arrows-chevron-1-l:before {
+  content: "\e9fc";
+}
+.i-arrows-chevron-1-r:before {
+  content: "\e9fd";
+}
+.i-arrows-chevron-1-u:before {
+  content: "\e9fe";
+}
+.i-arrows-chevron-2-d:before {
+  content: "\e9ff";
+}
+.i-arrows-chevron-2-l:before {
+  content: "\ea00";
+}
+.i-arrows-chevron-2-r:before {
+  content: "\ea01";
+}
+.i-arrows-chevron-2-u:before {
+  content: "\ea02";
+}
+.i-arrows-chevron-3-d:before {
+  content: "\ea03";
+}
+.i-arrows-chevron-3-l:before {
+  content: "\ea04";
+}
+.i-arrows-chevron-3-r:before {
+  content: "\ea05";
+}
+.i-arrows-chevron-3-u:before {
+  content: "\ea06";
+}
+.i-arrows-chevron-4-d:before {
+  content: "\ea07";
+}
+.i-arrows-chevron-4-l:before {
+  content: "\ea08";
+}
+.i-arrows-chevron-4-r:before {
+  content: "\ea09";
+}
+.i-arrows-chevron-4-u:before {
+  content: "\ea0a";
+}
+.i-arrows-chevron-5-d:before {
+  content: "\ea0b";
+}
+.i-arrows-chevron-5-l:before {
+  content: "\ea0c";
+}
+.i-arrows-chevron-5-r:before {
+  content: "\ea0d";
+}
+.i-arrows-chevron-5-u:before {
+  content: "\ea0e";
+}
 .i-arrows-slim-arrow-3-l:before {
   content: "\e9f9";
 }
